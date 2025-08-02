@@ -41,6 +41,6 @@ The framework supports easy plug-in of new strategies, indicators, and exit logi
 
 ---
 
-## Trade Analysis
+## 📈 Trade Analysis
 
 The analysis pipeline includes filtering executed trades based on various conditions: excluding overlapping trades, removing trades on high-volatility (VIX) days, and selecting only the first valid trade within a specific intraday window. Summary statistics are generated across hourly, daily, weekly, and monthly periods, including cumulative profit and loss (PnL), win rate, and extreme day metrics. Additional metrics estimate how long it takes each month to hit profit or loss thresholds. Visualizations and CSV outputs support further inspection.
