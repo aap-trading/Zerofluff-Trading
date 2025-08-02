@@ -25,7 +25,7 @@ The framework supports easy plug-in of new strategies, indicators, and exit logi
 - **ORBR**: Reversal from OR high with bearish momentum and volume.
 - **Prev Day High R**: Reversal near previous day’s high with strong candle and rising volume.
 - **BBR**: Reversal from upper Bollinger Band with volume.
-- **Strong Volume & Candle **: Strong bearish candle with increasing volume.
+- **Strong Volume & Candle**: Strong bearish candle with increasing volume.
 - **Strong Candle / VIX**: Bearish candle alone or filtered by low VIX.
 - **First Candle**: Strong first candle of session.
 - **Weak Volume Pullback**: Pullback after strong bearish candle with low volume.
